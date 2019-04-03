@@ -1,0 +1,11 @@
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\bin\Debug\netcoreapp2.2\DoublyLinkedLists.deps.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\bin\Debug\netcoreapp2.2\DoublyLinkedLists.runtimeconfig.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\bin\Debug\netcoreapp2.2\DoublyLinkedLists.runtimeconfig.dev.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\bin\Debug\netcoreapp2.2\DoublyLinkedLists.dll
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\bin\Debug\netcoreapp2.2\DoublyLinkedLists.pdb
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\obj\Debug\netcoreapp2.2\DoublyLinkedLists.csprojAssemblyReference.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\obj\Debug\netcoreapp2.2\DoublyLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\obj\Debug\netcoreapp2.2\DoublyLinkedLists.AssemblyInfoInputs.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\obj\Debug\netcoreapp2.2\DoublyLinkedLists.AssemblyInfo.cs
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\obj\Debug\netcoreapp2.2\DoublyLinkedLists.dll
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\DoublyLinkedLists\obj\Debug\netcoreapp2.2\DoublyLinkedLists.pdb
